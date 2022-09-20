@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BackEnd Developer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BackEnd%20Developer&fontSize=90)
 
 
 <img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white"/></a>
