@@ -23,19 +23,14 @@ Here are some ideas to get you started:
 <p align="center">
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-  <img src="https://img.shields.io/badge/SpringBoot-yellowgreen?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
-<img src="https://img.shields.io/badge/Spring Data JPA-yellowgreen?style=flat-square&logo=SpringDataJPA&logoColor=white"/></a>
-<br/>
 
-<img src="https://img.shields.io/badge/AWS EC2-orange?style=flat-square&logo=AWS_EC2&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/AWS RDS-orange?style=flat-square&logo=AWS_RDS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS S3-orange?style=flat-square&logo=AWS_S3&logoColor=white"/></a>
 
 
 </p>
